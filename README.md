@@ -1,16 +1,49 @@
-## Hi there 👋
-
 <!--
-**JoaoSchmitt-Dev/JoaoSchmitt-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    README desenvolvido por João Vitor Schmitt
+    Automação • Robótica • Tecnologia • Java
 -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=500&color=A855F7&width=600&lines=Olá%2C+eu+sou+João+Vitor+Schmitt;Especialista+em+Automação+e+Robótica;Estudando+Desenvolvimento+Java;Tecnologia+e+Inovação"/>
+
+
+
+## 🚀 Sobre mim
+
+Especialista em aplicações para automação e robótica industrial, com experiência em programação de dispositivos para automação. Atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Federal do Rio Grande do Sul (IFRS), buscando unir minha experiência industrial com desenvolvimento de software e tecnologia, com foco em Java e soluções inovadoras.
+
+
+
+## 🧠 Tecnologias e Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,postgres,git,github,vscode,idea,pycharm)](https://skillicons.dev)
+
+
+
+## 📖 Atualmente aprendendo
+
+[![Learning](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+
+
+
+## 🌎 Localização
+
+📍 Rio Grande do Sul, Brasil
+
+
+
+## 📫 Contato
+
+<div>
+    <a href="https://github.com/JoaoSchmitt-Dev" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="45"/>
+    </a>
+    <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+    </a>
+</div>
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
