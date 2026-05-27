@@ -39,11 +39,10 @@ Especialista em aplicações para automação e robótica industrial, com experi
     <a href="https://github.com/JoaoSchmitt-Dev" target="_blank">
         <img src="https://skillicons.dev/icons?i=github" width="45"/>
     </a>
-    <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-schmitt-20b148304/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
     </a>
 </div>
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
