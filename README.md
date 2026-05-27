@@ -23,7 +23,7 @@ Especialista em aplicações para automação e robótica industrial, com experi
 
 ## 📖 Atualmente aprendendo
 
-[![Learning](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=js,html,css,php,linux)](https://skillicons.dev)
 
 
 
